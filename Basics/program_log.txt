@@ -1,0 +1,2 @@
+ 2023-06-21 19:15:11,315 - INFO - Data Inserted Successfully
+ 2023-06-21 19:15:11,316 - INFO - Connection Closed Successfully

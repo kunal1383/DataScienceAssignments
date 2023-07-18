@@ -1,0 +1,1 @@
+[{'_id': ObjectId('647603e6ea13b2987166fb9f'), 'id': 12, 'first_name': 'KUNAL', 'last_name': 'BARVE', 'course': 'FSDSMC', 'contact_no': 214523}, {'_id': ObjectId('647604d0ea13b2987166fba1'), 'id': 12, 'first_name': 'kybfs', 'last_name': 'ade', 'course': 'fdgr', 'contact_no': 242462}]

@@ -1,0 +1,130 @@
+2023-05-30 19:35:08,654 DEBUG diff parser start
+2023-05-30 19:35:08,655 DEBUG line_lengths old: 7; new: 10
+2023-05-30 19:35:08,655 DEBUG -> code[equal] old[1:6] new[1:6]
+2023-05-30 19:35:08,655 DEBUG copy old[1:6] new[1:4]
+2023-05-30 19:35:08,655 DEBUG parse_part from 5 to 10 (to 9 in part parser)
+2023-05-30 19:35:08,656 DEBUG -> code[replace] old[7:7] new[7:10]
+2023-05-30 19:35:08,656 DEBUG diff parser end
+2023-05-30 19:37:17,664 DEBUG diff parser start
+2023-05-30 19:37:17,664 DEBUG line_lengths old: 10; new: 69
+2023-05-30 19:37:17,664 DEBUG -> code[equal] old[1:9] new[1:9]
+2023-05-30 19:37:17,664 DEBUG copy old[1:9] new[1:4]
+2023-05-30 19:37:17,665 DEBUG parse_part from 5 to 24 (to 24 in part parser)
+2023-05-30 19:37:17,665 DEBUG -> code[replace] old[10:10] new[10:69]
+2023-05-30 19:37:17,669 DEBUG parse_part from 25 to 69 (to 68 in part parser)
+2023-05-30 19:37:17,669 DEBUG diff parser end
+2023-05-30 19:37:17,688 DEBUG pickle loaded: C:\Users\kbarv\anaconda3\lib\typing.py
+2023-05-30 19:37:17,697 DEBUG pickle loaded: C:\Users\kbarv\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2023-05-30 19:39:16,273 DEBUG diff parser start
+2023-05-30 19:39:16,273 DEBUG line_lengths old: 69; new: 8
+2023-05-30 19:39:16,273 DEBUG -> code[equal] old[1:7] new[1:7]
+2023-05-30 19:39:16,274 DEBUG copy old[1:68] new[1:4]
+2023-05-30 19:39:16,274 DEBUG parse_part from 5 to 8 (to 7 in part parser)
+2023-05-30 19:39:16,274 DEBUG -> code[replace] old[8:69] new[8:8]
+2023-05-30 19:39:16,275 DEBUG diff parser end
+2023-05-30 19:39:35,475 DEBUG diff parser start
+2023-05-30 19:39:35,475 DEBUG line_lengths old: 8; new: 1
+2023-05-30 19:39:35,476 DEBUG -> code[replace] old[1:8] new[1:1]
+2023-05-30 19:39:35,476 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:39:35,476 DEBUG diff parser end
+2023-05-30 19:39:37,646 DEBUG diff parser start
+2023-05-30 19:39:37,647 DEBUG line_lengths old: 1; new: 1
+2023-05-30 19:39:37,647 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-30 19:39:37,647 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:39:37,647 DEBUG diff parser end
+2023-05-30 19:40:03,374 DEBUG diff parser start
+2023-05-30 19:40:03,374 DEBUG line_lengths old: 1; new: 1
+2023-05-30 19:40:03,374 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-30 19:40:03,374 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:40:03,374 DEBUG diff parser end
+2023-05-30 19:40:11,218 INFO Trying to conncet to mongodb..
+2023-05-30 19:40:11,521 INFO CREATING DB IF NOT EXIST
+2023-05-30 19:40:11,521 INFO CREATING TABLE IF NOT EXIST
+2023-05-30 19:40:13,420 DEBUG diff parser start
+2023-05-30 19:40:13,420 DEBUG line_lengths old: 1; new: 1
+2023-05-30 19:40:13,420 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-30 19:40:13,420 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:40:13,420 DEBUG diff parser end
+2023-05-30 19:40:21,550 DEBUG diff parser start
+2023-05-30 19:40:21,550 DEBUG line_lengths old: 1; new: 1
+2023-05-30 19:40:21,550 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-30 19:40:21,550 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:40:21,551 DEBUG diff parser end
+2023-05-30 19:40:26,797 INFO INSERTING DATA INTO DATABASE
+2023-05-30 19:40:47,895 INFO DATA INSERTED
+2023-05-30 19:40:56,687 DEBUG diff parser start
+2023-05-30 19:40:56,687 DEBUG line_lengths old: 1; new: 1
+2023-05-30 19:40:56,687 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-30 19:40:56,688 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:40:56,688 DEBUG diff parser end
+2023-05-30 19:40:58,815 DEBUG diff parser start
+2023-05-30 19:40:58,816 DEBUG line_lengths old: 1; new: 1
+2023-05-30 19:40:58,816 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-30 19:40:58,816 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:40:58,816 DEBUG diff parser end
+2023-05-30 19:41:00,189 DEBUG diff parser start
+2023-05-30 19:41:00,189 DEBUG line_lengths old: 1; new: 1
+2023-05-30 19:41:00,189 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-30 19:41:00,189 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:41:00,189 DEBUG diff parser end
+2023-05-30 19:41:01,472 DEBUG diff parser start
+2023-05-30 19:41:01,472 DEBUG line_lengths old: 1; new: 1
+2023-05-30 19:41:01,472 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-30 19:41:01,472 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:41:01,472 DEBUG diff parser end
+2023-05-30 19:41:02,186 DEBUG diff parser start
+2023-05-30 19:41:02,186 DEBUG line_lengths old: 1; new: 1
+2023-05-30 19:41:02,187 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-30 19:41:02,187 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:41:02,187 DEBUG diff parser end
+2023-05-30 19:41:03,169 DEBUG diff parser start
+2023-05-30 19:41:03,169 DEBUG line_lengths old: 1; new: 1
+2023-05-30 19:41:03,169 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-30 19:41:03,169 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:41:03,169 DEBUG diff parser end
+2023-05-30 19:41:06,364 INFO FETCHING ALL DATA FROM DB
+2023-05-30 19:41:06,628 INFO FETCHED ALL DATA FROM DB
+2023-05-30 19:41:10,246 DEBUG diff parser start
+2023-05-30 19:41:10,247 DEBUG line_lengths old: 1; new: 1
+2023-05-30 19:41:10,247 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-30 19:41:10,247 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:41:10,247 DEBUG diff parser end
+2023-05-30 19:41:13,903 DEBUG diff parser start
+2023-05-30 19:41:13,904 DEBUG line_lengths old: 1; new: 1
+2023-05-30 19:41:13,904 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-30 19:41:13,904 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:41:13,904 DEBUG diff parser end
+2023-05-30 19:41:16,400 DEBUG diff parser start
+2023-05-30 19:41:16,400 DEBUG line_lengths old: 1; new: 1
+2023-05-30 19:41:16,400 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-05-30 19:41:16,400 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-05-30 19:41:16,400 DEBUG diff parser end
+2023-05-30 19:41:33,263 INFO FETCHING ALL DATA FROM DB
+2023-05-30 19:41:33,528 INFO FETCHED ALL DATA FROM DB
+2023-05-30 19:41:56,497 DEBUG diff parser start
+2023-05-30 19:41:56,497 DEBUG line_lengths old: 1; new: 62
+2023-05-30 19:41:56,497 DEBUG -> code[replace] old[1:1] new[1:62]
+2023-05-30 19:41:56,501 DEBUG parse_part from 1 to 62 (to 61 in part parser)
+2023-05-30 19:41:56,501 DEBUG diff parser end
+2023-05-30 19:42:01,170 INFO FETCHING ALL DATA FROM DB
+2023-05-30 19:42:01,435 INFO FETCHED ALL DATA FROM DB
+2023-05-30 19:42:20,905 INFO FETCHING ALL DATA FROM DB
+2023-05-30 19:42:21,170 INFO FETCHED ALL DATA FROM DB
+2023-05-30 19:43:16,617 INFO FETCHING ALL DATA FROM DB
+2023-05-30 19:43:16,882 INFO FETCHED ALL DATA FROM DB
+2023-05-30 19:44:18,946 INFO Trying to conncet to mongodb..
+2023-05-30 19:44:19,113 INFO CREATING DB IF NOT EXIST
+2023-05-30 19:44:19,113 INFO CREATING TABLE IF NOT EXIST
+2023-05-30 19:44:19,764 INFO INSERTING DATA INTO DATABASE
+2023-05-30 19:44:32,584 INFO INSERTING DATA INTO DATABASE
+2023-05-30 19:44:42,422 INFO DATA INSERTED
+2023-05-30 19:44:42,439 INFO FETCHING ALL DATA FROM DB
+2023-05-30 19:44:42,715 INFO FETCHED ALL DATA FROM DB
+2023-05-30 19:44:57,798 INFO Trying to conncet to mongodb..
+2023-05-30 19:44:57,834 INFO CREATING DB IF NOT EXIST
+2023-05-30 19:44:57,834 INFO CREATING TABLE IF NOT EXIST
+2023-05-30 19:44:59,806 INFO FETCHING ALL DATA FROM DB
+2023-05-30 19:45:01,605 INFO FETCHED ALL DATA FROM DB
+2023-05-30 19:45:02,038 INFO FETCHING ALL DATA FROM DB
+2023-05-30 19:45:02,324 INFO FETCHED ALL DATA FROM DB
+2023-05-30 19:45:02,325 INFO Importing successfull
